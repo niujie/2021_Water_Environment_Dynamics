@@ -1,6 +1,7 @@
 *.exe
 *.obj
 *.DS_Store
+*.wav
 .ipynb_checkpoints
 data
 images
